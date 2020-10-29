@@ -23,7 +23,7 @@ body {
 
 body {
     padding-bottom: 10px;
-    color: #8d9498;
+    color: #464a4c;
     background-color: #fefefe;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-rendering: optimizeLegibility
@@ -845,7 +845,7 @@ input[type="date"]::-webkit-input-placeholder,
 input[type="email"]::-webkit-input-placeholder,
 input[type="password"]::-webkit-input-placeholder,
 input[type="text"]:not(.input-addon-field)::-webkit-input-placeholder {
-    color: #dedede
+    color: #7f7f7f
 }
 
 input[type="number"]::-moz-placeholder,
@@ -853,7 +853,7 @@ input[type="date"]::-moz-placeholder,
 input[type="email"]::-moz-placeholder,
 input[type="password"]::-moz-placeholder,
 input[type="text"]:not(.input-addon-field)::-moz-placeholder {
-    color: #dedede
+    color: #7f7f7f
 }
 
 input[type="number"]:-ms-input-placeholder,
@@ -861,7 +861,7 @@ input[type="date"]:-ms-input-placeholder,
 input[type="email"]:-ms-input-placeholder,
 input[type="password"]:-ms-input-placeholder,
 input[type="text"]:not(.input-addon-field):-ms-input-placeholder {
-    color: #dedede
+    color: #7f7f7f
 }
 
 input[type="number"]:focus,
