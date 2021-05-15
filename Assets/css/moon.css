@@ -613,7 +613,6 @@ tr.draggable-item-selected td:last-child {
     border-right: none
 }
 
-.table-stripped tr.draggable-item-hover,
 .table-stripped tr.draggable-item-hover {
     background: #FEFFF2
 }
@@ -2723,9 +2722,6 @@ span.task-date-overdue {
 
 .task-form-container>* {
     box-sizing: border-box
-}
-
-.task-form-container>* {
     width: 1%
 }
 
