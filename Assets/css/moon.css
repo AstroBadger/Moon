@@ -931,7 +931,6 @@ textarea:-ms-input-placeholder {
 }
 
 select {
-    font-size: 1.0em;
     max-width: 95%;
     border: 1px solid #AAA;
     color: #555;
@@ -1649,8 +1648,6 @@ td a.dropdown-menu:hover i {
 header {
     display: flex;
     flex-wrap: wrap;
-    padding: 5px 10px;
-    margin-bottom: 5px;
     border-bottom: 0px solid #dedede;
     padding: 15px 10px;
     margin-bottom: 15px;
@@ -2432,7 +2429,6 @@ div.draggable-item-selected {
 .task-board {
     margin-bottom: 8px;
     padding: 12px;
-    border-radius: 3px;
     border: none;
     border-radius: 3px;
     border-bottom: 5px solid;
